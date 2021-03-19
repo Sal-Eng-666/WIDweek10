@@ -1,0 +1,12 @@
+account_number,cust_name,forage,harvest_date,sample_date
+1,Smith,grass,2020-06-01,2021-03-17
+2,Green,maize,2020-10-01,2021-03-17
+3,Brown,"wheat wholecrop",2020-08-01,2021-03-18
+4,Jones,grass,2020-07-16,2021-03-18
+5,Roberts,maize,2020-10-10,2021-03-17
+6,Round,"fresh grass",2021-03-17,2021-03-18
+7,Rimington,tmr,2021-02-10,2021-03-17
+8,Rushton,grass,2020-07-06,2021-03-18
+9,Mellor,maize,2020-10-24,2021-03-17
+10,Barnett,"compound feed",2021-03-05,2021-03-05
+11,Gibson,straw,2021-01-01,2021-03-17
